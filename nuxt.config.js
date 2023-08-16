@@ -77,5 +77,5 @@ export default {
       layouts: true,
     },
   },
-  // buildDir: "dist",
+  buildDir: "dist",
 };
